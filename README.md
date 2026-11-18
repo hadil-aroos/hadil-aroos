@@ -13,6 +13,8 @@ By day I work in procurement and logistics; the rest of the time I turn ideas in
   safety limits the AI can never override.
 - **Real-time audio processing** - low-latency voice effects, pitch and formant shifting, neural noise
   removal.
+- **Business web apps** - self-hosted, multi-user systems that replace paid software, such as a
+  double-entry bookkeeping app that imports a company's full QuickBooks history.
 - **Dashboards and tooling** - live web dashboards, scanners, local networking and deployment scripts.
 
 #### 🚀 Projects
@@ -21,6 +23,7 @@ By day I work in procurement and logistics; the rest of the time I turn ideas in
 |---|---|
 | [**binance-ai-trading-bot**](https://github.com/hadil-aroos/binance-ai-trading-bot) | Crypto trading bot where five AI agents (technical, news, bull, bear, judge) debate every trade. Risk-based position sizing, stop-loss/take-profit, paper/testnet/live modes, live dashboard. |
 | [**voice-changer**](https://github.com/hadil-aroos/voice-changer) | Real-time voice changer for Discord and games. Phase-vocoder pitch and formant shifting, voice analyser, AI noise removal (RNNoise) and a sci-fi control dashboard. |
+| [**ledgerline**](https://github.com/hadil-aroos/ledgerline) | Free, self-hosted bookkeeping web app for small teams. Imports QuickBooks Desktop data, double-entry ledger, invoices and bills, P&L / balance sheet / trial balance / aging reports, user roles and an activity log. Flask + SQLite. |
 | [**home-wifi-share**](https://github.com/hadil-aroos/home-wifi-share) | Open any web app running on your PC from your phone - over home Wi-Fi or anywhere - behind a secret key. Zero dependencies. |
 
 #### 🧰 Skills & tech
@@ -36,7 +39,7 @@ Bollinger, ATR) · risk management · offline test suites
 **Audio / DSP:** NumPy · FFT and phase vocoders · formant shifting · real-time audio (PortAudio /
 sounddevice) · noise suppression
 
-**Web & systems:** HTTP servers · Server-Sent Events · canvas dashboards · reverse proxies ·
+**Web & systems:** Flask · SQLite · HTTP servers · Server-Sent Events · canvas dashboards · reverse proxies ·
 Linux VPS · systemd · Cloudflare tunnels · Git and GitHub
 
-**Business:** procurement · supplier sourcing · import logistics
+**Business:** double-entry accounting · QuickBooks data migration · procurement · supplier sourcing · import logistics
